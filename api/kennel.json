@@ -1,0 +1,56 @@
+{
+  "animals": [
+    {
+      "id": 3,
+      "name": "Esme",
+      "breed": "Pitbull",
+      "employeeId": 1
+    },
+    {
+      "id": 4,
+      "name": "Jack Be Quick",
+      "breed": "Biggest cat",
+      "employeeId": 1
+    },
+    {
+      "name": "Derkins",
+      "breed": "Dog",
+      "id": 6,
+      "employeeId": 2
+    },
+    {
+      "id": 8,
+      "name": "Checkers",
+      "breed": "Big Bird",
+      "employeeId": 2
+    },
+    {
+      "name": "Ollie",
+      "breed": "Cat",
+      "id": 9
+    },
+    {
+      "name": "socks",
+      "breed": "gerbil",
+      "id": 10
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jessica Younker"
+    },
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts"
+    }
+  ]
+}
